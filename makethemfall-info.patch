@@ -13,7 +13,7 @@ index 9f075b4..1008e2c 100644
  license = GPLv3+
 -summary = An arcade game
 +metadata_license = CC0-1.0
-+summary = Make Them Fall is a multilevel arcade game
++summary = It is a multilevel arcade game
  repository = https://github.com/sugarlabs/make-them-fall-activity.git
 +release_date = 2024-06-13
 +show_launcher = yes
