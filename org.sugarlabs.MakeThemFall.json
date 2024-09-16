@@ -44,10 +44,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/sugarlabs/make-them-fall-activity.git",
-                    "commit": "fadb66000a403c7340520632160dc1b702db078d",
-                    "x-checker-data": {
-                        "type": "git"
-                    }
+                    "commit": "fadb66000a403c7340520632160dc1b702db078d"
                 },
                 {
                     "type": "patch",
